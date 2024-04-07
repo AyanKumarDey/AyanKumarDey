@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <h3>🔭 I’m currently working on Django</h3>
   <h3>🌱 I’m currently learning Django, Python, HTML, CSS, JavaScript</h3>
   <h3>👯 I’m looking to collaborate on AI & ML domain as well as Natural Language Processing</h3>
@@ -29,8 +29,8 @@
   <h3>⚡ Fun fact: I am a tech enthusiastic person</h3>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/ayandey" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
