@@ -50,10 +50,8 @@
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=C,C++,Java,Python,HTML,CSS,Javascript)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=C,C++,Java,Python,HTML,CSS,Javascript)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset=Indian Standard Time (IST))
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset=+05:30)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayankumardey" /></p>
 
