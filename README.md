@@ -32,11 +32,13 @@
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github" alt="ayankumardey" /></p>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript&locale=en&layout=compact"></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript"></p>
 
-<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++&locale=en&layout=compact"></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++"></p>
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github"></p>
+
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset={utcOffset}"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayankumardey" /></p>
 
