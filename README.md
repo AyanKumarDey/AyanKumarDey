@@ -49,7 +49,7 @@
   <!-- Add other icons similarly -->
 </div>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github" alt="Profile Summary">
 </div>
 
@@ -57,7 +57,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript" alt="Repos per Language">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++" alt="Most Commit Language">
 </div>
 
@@ -65,7 +65,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github" alt="Stats">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset={utcOffset}" alt="Productive Time">
 </div>
 
@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ayankumardey&show_icons=true&theme=radical&locale=en" alt="Stats">
 </div>
 
