@@ -49,7 +49,7 @@
   <!-- Add other icons similarly -->
 </div>
 
-![](https://raw.githubusercontent.com/AyanKumarDey/AyanKumarDey/master/profile-summary-card/github/0-profile-details.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github)
 ![](https://raw.githubusercontent.com//vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
