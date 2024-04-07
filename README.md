@@ -49,24 +49,33 @@
   <!-- Add other icons similarly -->
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github" alt="Profile Summary">
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <div style="margin-right: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript" alt="Repos per Language">
-    </div>
-    <div>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++" alt="Most Commit Language">
-    </div>
+<div id="row1" align="center" style="display: flex; justify-content: space-between;">
+  <div id="a1" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github" alt="Profile Summary">
+  </div>
+  <div id="a2">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript" alt="Repos per Language">
   </div>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github" alt="Stats">
+<div id="row2" align="center" style="display: flex; justify-content: space-between;">
+  <div id="a3">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++" alt="Most Commit Language">
+  </div>
+  <div id="a4">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github" alt="Stats">
+  </div>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&
+<div id="row3" align="center" style="display: flex; justify-content: space-between;">
+  <div id="a5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages">
+  </div>
+  <div id="a6">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayankumardey&show_icons=true&theme=radical&locale=en" alt="Stats">
+  </div>
+</div>
+
+<div id="a7" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayankumardey&theme=dark" alt="Streak Stats">
+</div>
