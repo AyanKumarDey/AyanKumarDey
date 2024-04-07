@@ -51,7 +51,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset=+05:30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=Java,C,C++,HTML,CSS,Javascript)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayankumardey" /></p>
 
