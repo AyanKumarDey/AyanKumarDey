@@ -54,11 +54,14 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript" alt="Repos per Language">
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++" alt="Most Commit Language">
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=java,c,c++,html,css,javascript" alt="Repos per Language">
+    </div>
+    <div>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyanKumarDey&theme=github&exclude=HTML,CSS,Javascript,Rust,C,C++" alt="Most Commit Language">
+    </div>
+  </div>
 </div>
 
 <div align="center">
@@ -66,17 +69,4 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&theme=github&utcOffset=UTC +8.00" alt="Productive Time">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayankumardey&show_icons=true&theme=radical&locale=en" alt="Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayankumardey&theme=dark" alt="Streak Stats">
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanKumarDey&
