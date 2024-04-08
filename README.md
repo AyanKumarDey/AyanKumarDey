@@ -22,11 +22,11 @@
 </p>
 
 <div align="left">
-  <h3 style="font-size: 12px;">🔭 I’m currently working on Attendence Management System</h3>
-  <h3>🌱 I’m currently learning HTML, CSS, JavaScript & Java</h3>
-  <h3>👯 I’m looking to collaborate on AI & ML domain as well as Natural Language Processing</h3>
-  <h3>📫 How to reach me: ayankumardey99@gmail.com</h3>
-  <h3>⚡ Fun fact: I am a tech enthusiastic person</h3>
+  <h4>🔭 I’m currently working on Attendence Management System</h4>
+  <h4>🌱 I’m currently learning HTML, CSS, JavaScript & Java</h4>
+  <h4>👯 I’m looking to collaborate on AI & ML domain as well as Natural Language Processing</h4>
+  <h4>📫 How to reach me: ayankumardey99@gmail.com</h4>
+  <h4>⚡ Fun fact: I am a tech enthusiastic person</h4>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -79,6 +79,7 @@
   </a> 
 </p>
 
+<h3 align="left">My Github Stats:-</h3>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=Java,C,C++,HTML,CSS,Javascript)
