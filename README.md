@@ -55,6 +55,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayankumardey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayankumardey&show_icons=true&theme=radical&locale=en" alt="ayankumardey" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayankumardey&theme=dark" alt="ayankumardey" /></p>
