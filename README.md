@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Banner">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayan Kumar Dey</h1>
@@ -7,18 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayankumardey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayankumardey" alt="Trophy">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ayandey" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ayandey?logo=twitter&style=for-the-badge" alt="Twitter">
-  </a>
 </p>
 
 <div align="left">
@@ -31,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ayandey" target="_blank">
+  <a href="https://twitter.com/AyanDey38842897" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ayankumardey" target="_blank">
+  <a href="https://www.linkedin.com/in/ayan-kumar-dey-a7674b22a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/ayankumardey" target="_blank">
+  <a href="https://www.hackerrank.com/profile/AyanKumarDey" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
