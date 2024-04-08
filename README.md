@@ -85,6 +85,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=Java,C,C++,HTML,CSS,Javascript)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayankumardey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" width="250px" alt="ayankumardey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayankumardey&theme=dark" alt="ayankumardey" /></p>
