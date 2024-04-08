@@ -21,8 +21,8 @@
   </a>
 </p>
 
-<div align="left" style="font-size: 12px;">
-  <h3>🔭 I’m currently working on Attendence Management System</h3>
+<div align="left">
+  <h3 style="font-size: 12px;">🔭 I’m currently working on Attendence Management System</h3>
   <h3>🌱 I’m currently learning HTML, CSS, JavaScript & Java</h3>
   <h3>👯 I’m looking to collaborate on AI & ML domain as well as Natural Language Processing</h3>
   <h3>📫 How to reach me: ayankumardey99@gmail.com</h3>
