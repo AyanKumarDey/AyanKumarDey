@@ -70,7 +70,6 @@
 <h3 align="left">My Github Stats:-</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanKumarDey&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyanKumarDey&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanKumarDey&theme=github&exclude=Java,C,C++,HTML,CSS,Javascript)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayankumardey&show_icons=true&theme=dark&locale=en&layout=compact" height="195px" width="300px" alt="ayankumardey" /></p>
