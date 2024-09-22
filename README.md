@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ayan-kumar-dey-a7674b22a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/AyanKumarDey" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ayankumard971" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
